@@ -11,3 +11,11 @@
 - joaquim tem 20 anos 
 - Barney tem 41 anos
 - A média das idades é 33
+
+# Outro Exemplo:
+- Var nome = "Flávio";
+- document.write("A idade de " + nome + " é " + idadeFlávio);
+- "A idade de Flávio"
+- "A idade de flávio é"
+- (Resultado abaixo :
+- [A idade de Flávio é 39]
