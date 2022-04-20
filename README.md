@@ -15,7 +15,8 @@
 - Barney tem 41 anos
 - A média das idades é 33
 
-# Outro Exemplo:
+# Outro Exemplo
+
 - Var nome = "Flávio";
 - document.write("A idade de " + nome + " é " + idadeFlávio);
 - "A idade de Flávio"
