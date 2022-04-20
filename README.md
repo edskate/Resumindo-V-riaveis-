@@ -1,0 +1,2 @@
+# Resumindo Váriaveis 
+ studos 
