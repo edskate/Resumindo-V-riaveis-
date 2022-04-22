@@ -1,0 +1,14 @@
+body{
+color: blue;
+text-shadow: 2px 3px 4px #000;
+}
+button{
+background-color: darkslategray;
+text-shadow: 2px 3px 4px #00ffff;
+font-size: 15px;
+
+
+}
+p{
+text-align: center;
+}

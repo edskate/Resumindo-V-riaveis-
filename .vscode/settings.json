@@ -1,5 +1,39 @@
 {
     "cSpell.words": [
-        "doido"
+        "ahora",
+        "armazene",
+        "Calcula",
+        "chame",
+        "consumo",
+        "continuar",
+        "devemos",
+        "doido",
+        "enfrentar",
+        "esqueça",
+        "estrutura",
+        "exercicio",
+        "Gasolina",
+        "instrutor",
+        "interpretação",
+        "mais",
+        "novos",
+        "precisa",
+        "resposta",
+        "Resultado",
+        "sozinho",
+        "tente",
+        "vocêe"
+    ],
+    "editor.renderWhitespace": "all",
+    "spellright.language": [
+        "pt"
+    ],
+    "spellright.documentTypes": [
+        "markdown",
+        "latex",
+        "plaintext"
+    ],
+    "livePreview.defaultPreviewPath": "/.vscode/12Àlcool ou Gasolina.html",
+    "editor.rulers": [
     ]
 }
